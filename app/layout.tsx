@@ -3,8 +3,8 @@ import NavBar from "@/components/NavBar";
 import "./globals.css";
 
 export const metadata = {
-  title: "Car Hub",
-  description: "Discover the best cars",
+  title: "Smart Learn",
+  description: "Discover the best courses",
 };
 
 export default function RootLayout({
