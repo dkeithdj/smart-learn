@@ -8,8 +8,12 @@ const Hero = () => {
   return (
     <div className="hero">
       <div className="flex-1 pt-36  padding-x">
-        <h1 className="hero__title">Learn at your own pace</h1>
-        <p className="hero__subtitle">Explore well-made courses for you</p>
+        <h1 className="text-yellow-300  hero__title">
+          Smarter Learning. AI Powered
+        </h1>
+        <p className="hero__subtitle">
+          Learn whatever you want with a tutor beside you!
+        </p>
 
         <CustomButton
           title="Explore Courses"
